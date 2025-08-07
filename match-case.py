@@ -8,3 +8,4 @@ def is_fruit(fruit):
             return "This is not a recognized fruit or vegetable."
         
 print(is_fruit("tomatooo"))
+print(is_fruit("apple"))
