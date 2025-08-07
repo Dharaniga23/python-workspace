@@ -7,4 +7,5 @@ def is_fruit(fruit):
         case _:
             return "This is not a recognized fruit or vegetable."
         
-print(is_fruit("tomato"))
+print(is_fruit("tomatooo"))
+print(is_fruit("apple"))
