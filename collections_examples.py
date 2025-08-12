@@ -12,7 +12,7 @@ colors= {"red","pink","white","black"}
 #print(colors)
 
 #for color in colors:
-print(colors)
+#print(colors)
 
 colors= ("red","pink","white","black")
 print(dir(colors))
